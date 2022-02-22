@@ -1,4 +1,4 @@
-from app import predict
+
 import uvicorn
 import pickle
 import numpy as np
